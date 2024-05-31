@@ -1,0 +1,17 @@
+# Example Suricata configuration
+# Add your Suricata configuration details here
+
+vars:
+  address-groups:
+    HOME_NET: "[192.168.1.0/24]"
+  port-groups:
+    HTTP_PORTS: "80"
+
+default-rule-path: /etc/suricata/rules
+rule-files:
+  - suricata.rules
+
+outputs:
+  - fast:
+      enabled: yes
+      filename: /var/log/suricata/fast.log
