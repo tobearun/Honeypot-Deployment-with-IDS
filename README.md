@@ -16,8 +16,8 @@ This repository contains a project detailing the setup, implementation, and anal
 
 ## Screenshots
 
-![Screenshot1](screenshots\Screenshot_2024-05-15_23_36_07.png)
-![Screenshot2](screenshots\Screenshot_2024-05-16_10_38_54.png)
+![Screenshot1] screenshots\Screenshot_2024-05-15_23_36_07.png
+![Screenshot2] screenshots\Screenshot_2024-05-16_10_38_54.png
 
 ## Setup
 
